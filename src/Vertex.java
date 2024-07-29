@@ -1,3 +1,4 @@
+
 class Vertex {
     long id;
 
