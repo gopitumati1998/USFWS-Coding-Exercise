@@ -1,4 +1,4 @@
-
+import java.util.*;
 class LongestDirectedPath {
 
     // Function to perform topological sort
